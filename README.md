@@ -7,7 +7,10 @@
 
 
 
-![Spire.Presentation Banner](./image/logo.png)
+<!-- ![Spire.Presentation Banner](./image/logo.png) -->
+<p align="center">
+  <img src="./image/logo.png" alt="Spire.Presentation Banner" width="100%" />
+</p>
 
 
 
