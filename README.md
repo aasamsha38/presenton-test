@@ -11,13 +11,17 @@
 
 
 
---------------------------------------------------------------------------------
+<!-- -------------------------------------------------------------------------------- -->
 
 
 
 A powerful .NET API for creating, reading, editing, and converting PowerPoint presentations programmatically — without Microsoft Office.
 
----
+It is currently maintained by a team of volunteers.
+
+Website: https://presenton.ai
+
+<!-- --- -->
 
 ## 📌 About the Project
 
