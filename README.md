@@ -1,5 +1,6 @@
 # Spire.Presentation for .NET
-![Spire.Presentation Banner]("./image/logo.png")
+
+![Spire.Presentation Banner](./image/logo.png)
 
 ![NuGet](https://img.shields.io/nuget/v/Spire.Presentation)
 ![.NET](https://img.shields.io/badge/.NET-Framework%20%7C%20.NET%20Core-purple)
