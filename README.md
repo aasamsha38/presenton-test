@@ -5,13 +5,17 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 
+
+
 ![Spire.Presentation Banner](./image/logo.png)
+
+
 
 --------------------------------------------------------------------------------
 
 
 
-> A powerful .NET API for creating, reading, editing, and converting PowerPoint presentations programmatically — without Microsoft Office.
+A powerful .NET API for creating, reading, editing, and converting PowerPoint presentations programmatically — without Microsoft Office.
 
 ---
 
