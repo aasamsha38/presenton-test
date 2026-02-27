@@ -9,7 +9,7 @@
 
 <!-- ![Spire.Presentation Banner](./image/logo.png) -->
 <p align="center">
-  <img src="./image/logo.png" alt="Spire.Presentation Banner" />
+  <img src="./image/banner.gif" alt="Spire.Presentation Banner" />
 </p>
 
 
