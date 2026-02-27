@@ -7,17 +7,20 @@
 <div align="left">
 
 ## Presenton  
-**Create, modify, and convert PowerPoint presentations programmatically — powered for modern .NET applications.**
+**Open-Source AI Presentation Generator & API. Self-hosted. Private. Fully customizable.**
+
 
 [![Website][website-shield]][website-url]
 [![Download][download-shield]][download-url]
+[![Docs][docs-shield]][docs-url]
 [![YouTube][youtube-shield]][youtube-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Discord][discord-shield]][discord-url]
 <br>
-[![NuGet][nuget-shield]][nuget-url]
-[![.NET][dotnet-shield]][dotnet-url]
+[![Docker Pulls][docker-shield]][docker-url]
+[![GitHub Stars][stars-shield]][stars-url]
 [![License][license-shield]][license-url]
 [![Platform][platform-shield]][platform-url]
+
 
 <!-- Shields -->
 
@@ -27,22 +30,25 @@
 [download-shield]: https://img.shields.io/badge/Download-Latest%20Release-6C47FF?style=flat&logo=download&logoColor=white
 [download-url]: https://presenton.ai/download
 
+[docs-shield]: https://img.shields.io/badge/Docs-docs.presenton.ai-0ea5e9?style=flat&logo=readthedocs&logoColor=white
+[docs-url]: https://docs.presenton.ai/
+
 [youtube-shield]: https://img.shields.io/badge/YouTube-PresentonAI-FF0000?style=flat&logo=youtube&logoColor=white
 [youtube-url]: https://www.youtube.com/@presentonai
 
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-PresentonAI-0A66C2?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/company/presentonai/
+[discord-shield]: https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat&logo=discord&logoColor=white
+[discord-url]: https://discord.gg/9ZsKKxudNE
 
-[nuget-shield]: https://img.shields.io/nuget/v/Spire.Presentation?style=flat
-[nuget-url]: https://www.nuget.org/packages/Spire.Presentation
+[docker-shield]: https://img.shields.io/badge/Docker-ghcr.io/presenton/presenton-2496ED?style=flat&logo=docker&logoColor=white
+[docker-url]: https://ghcr.io/presenton/presenton
 
-[dotnet-shield]: https://img.shields.io/badge/.NET-Framework%20%7C%20.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white
-[dotnet-url]: https://dotnet.microsoft.com/
+[stars-shield]: https://img.shields.io/github/stars/presenton/presenton?style=flat
+[stars-url]: https://github.com/presenton/presenton
 
-[license-shield]: https://img.shields.io/badge/License-Commercial-blue?style=flat
-[license-url]: https://presenton.ai/
+[license-shield]: https://img.shields.io/badge/License-Apache%202.0-blue?style=flat
+[license-url]: https://github.com/presenton/presenton/blob/main/LICENSE
 
-[platform-shield]: https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat
+[platform-shield]: https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat
 [platform-url]: https://presenton.ai/
 </div>
 
