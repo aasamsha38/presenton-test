@@ -74,16 +74,17 @@ What makes Presenton different?
 - Fully open-source (Apache 2.0)
 
 #
+
+### 📌 Try Presenton Cloud
+
+Generate presentations over UI or API in our cloud.
+
 <p align="center">
   <img src="./image/cloud.jpg" alt="Cloud deployment" />
 </p>
-### 📌 About the Project
-
-**Spire.Presentation for .NET** is a professional PowerPoint API designed for developers who need to manipulate presentation files in C#, VB.NET, or ASP.NET applications.
-
-It allows you to create and modify PPT/PPTX files efficiently, automate slide generation, extract content, and convert presentations to other formats — all without requiring Microsoft PowerPoint to be installed.
 
 #
+
 
 ### ✨ Key Features
 
