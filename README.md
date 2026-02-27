@@ -6,38 +6,44 @@
 
 <div align="center">
 
-# ComfyUI
-**The most powerful and modular visual AI engine and application.**
-
+## Presenton  
+**Create, modify, and convert PowerPoint presentations programmatically — powered for modern .NET applications.**
 
 [![Website][website-shield]][website-url]
-[![Dynamic JSON Badge][discord-shield]][discord-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Matrix][matrix-shield]][matrix-url]
+[![Download][download-shield]][download-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <br>
-[![][github-release-shield]][github-release-link]
-[![][github-release-date-shield]][github-release-link]
-[![][github-downloads-shield]][github-downloads-link]
-[![][github-downloads-latest-shield]][github-downloads-link]
+[![NuGet][nuget-shield]][nuget-url]
+[![.NET][dotnet-shield]][dotnet-url]
+[![License][license-shield]][license-url]
+[![Platform][platform-shield]][platform-url]
 
-[matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white
-[matrix-url]: https://app.element.io/#/room/%23comfyui_space%3Amatrix.org
-[website-shield]: https://img.shields.io/badge/ComfyOrg-4285F4?style=flat
-[website-url]: https://www.comfy.org/
-<!-- Workaround to display total user from https://github.com/badges/shields/issues/4500#issuecomment-2060079995 -->
-[discord-shield]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fcomfyorg%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Discord&color=green&suffix=%20total
-[discord-url]: https://www.comfy.org/discord
-[twitter-shield]: https://img.shields.io/twitter/follow/ComfyUI
-[twitter-url]: https://x.com/ComfyUI
+<!-- Shields -->
 
-[github-release-shield]: https://img.shields.io/github/v/release/comfyanonymous/ComfyUI?style=flat&sort=semver
-[github-release-link]: https://github.com/comfyanonymous/ComfyUI/releases
-[github-release-date-shield]: https://img.shields.io/github/release-date/comfyanonymous/ComfyUI?style=flat
-[github-downloads-shield]: https://img.shields.io/github/downloads/comfyanonymous/ComfyUI/total?style=flat
-[github-downloads-latest-shield]: https://img.shields.io/github/downloads/comfyanonymous/ComfyUI/latest/total?style=flat&label=downloads%40latest
-[github-downloads-link]: https://github.com/comfyanonymous/ComfyUI/releases
+[website-shield]: https://img.shields.io/badge/Website-presenton.ai-111827?style=flat&logo=google-chrome&logoColor=white
+[website-url]: https://presenton.ai/
 
-![ComfyUI Screenshot](https://github.com/user-attachments/assets/7ccaf2c1-9b72-41ae-9a89-5688c94b7abe)
+[download-shield]: https://img.shields.io/badge/Download-Latest%20Release-6C47FF?style=flat&logo=download&logoColor=white
+[download-url]: https://presenton.ai/download
+
+[youtube-shield]: https://img.shields.io/badge/YouTube-PresentonAI-FF0000?style=flat&logo=youtube&logoColor=white
+[youtube-url]: https://www.youtube.com/@presentonai
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-PresentonAI-0A66C2?style=flat&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/company/presentonai/
+
+[nuget-shield]: https://img.shields.io/nuget/v/Spire.Presentation?style=flat
+[nuget-url]: https://www.nuget.org/packages/Spire.Presentation
+
+[dotnet-shield]: https://img.shields.io/badge/.NET-Framework%20%7C%20.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white
+[dotnet-url]: https://dotnet.microsoft.com/
+
+[license-shield]: https://img.shields.io/badge/License-Commercial-blue?style=flat
+[license-url]: https://presenton.ai/
+
+[platform-shield]: https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat
+[platform-url]: https://presenton.ai/
 </div>
 
 
