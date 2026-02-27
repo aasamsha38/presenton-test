@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-Commercial-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey) -->
 
-<div align="center">
+<div align="left">
 
 ## Presenton  
 **Create, modify, and convert PowerPoint presentations programmatically — powered for modern .NET applications.**
