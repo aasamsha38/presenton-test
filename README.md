@@ -78,8 +78,8 @@ What makes Presenton different?
 ### 📌 Try Presenton Cloud
 
 Generate presentations over UI or API in our cloud. [🔗](https://presenton.ai)
-<a href="https://presenton.ai" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/link.svg" width="22" style="vertical-align: middle;" />
+<a href="https://presenton.ai">
+  <img src="https://github.com/primer/octicons/raw/main/icons/link-24.svg" width="22" align="absmiddle" />
 </a>
 
 <p align="center">
