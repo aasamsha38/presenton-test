@@ -90,7 +90,7 @@ It allows you to create and modify PPT/PPTX files efficiently, automate slide ge
 ### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 
-<p align="center">
+<p align="left">
 <a href="https://youtu.be/vvCj23ySjLg">
   <img src="https://ytcards.demolab.com/?id=vvCj23ySjLg&title=Tired+of+Generic+AI+Slides%3F+Use+Your+Existing+Presentations+as+Templates+with+Presenton%21&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" />
 </a>
@@ -110,11 +110,12 @@ It allows you to create and modify PPT/PPTX files efficiently, automate slide ge
 
 <!-- END YOUTUBE-CARDS -->
 
-<p align="center">
+[![Subscribe][youtube-shield]](https://www.youtube.com/@presentonai?sub_confirmation=1)
+<!-- <p align="left">
 <a href="https://www.youtube.com/@presentonai?sub_confirmation=1">
   <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20to%20Presenton-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-</p>
+</p> -->
 
 #
 
