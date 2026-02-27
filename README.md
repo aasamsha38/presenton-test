@@ -87,6 +87,8 @@ It allows you to create and modify PPT/PPTX files efficiently, automate slide ge
 - 🌍 Supports .NET Framework and .NET Core
 
 ---
+### 📺 Latest YouTube Videos
+#
 
 ## 🖼 Architecture Overview
 ---
