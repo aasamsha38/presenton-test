@@ -75,7 +75,7 @@ What makes Presenton different?
 
 #
 <p align="center">
-  <img src="./image/cloud.png" alt="Cloud deployment" />
+  <img src="./image/cloud.jpg" alt="Cloud deployment" />
 </p>
 ### 📌 About the Project
 
