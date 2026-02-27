@@ -64,18 +64,17 @@
 
 ### ✨ Why Presenton
 
-**Self-hosted AI presentations. Full control. Zero lock-in.**
+**Presenton** is an open-source AI presentation engine that runs locally on your device.
+No SaaS lock-in 
+No forced subscriptions 
+Full control over models and data
 
-Presenton runs locally on your device, giving you complete ownership over your data, models, and deployment.
-
-## 🔒 No Lock-In
-No SaaS dependency • No subscriptions • No hidden usage fees
-
-## ⚡ Developer Friendly
-Use existing PPTX templates • Deploy as API • Connect any LLM provider
-
-## 🛠 Fully Open
-Apache 2.0 licensed • Inspect • Modify • Contribute
+What makes Presenton different?
+- Use your **existing PPTX files as templates**
+- Fully **self-hosted**
+- Works with OpenAI, Gemini, Anthropic, Ollama, or custom models
+- API deployable
+- Fully open-source (Apache 2.0)
 
 #
 
