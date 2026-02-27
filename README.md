@@ -80,6 +80,8 @@ What makes Presenton different?
 Generate presentations over UI or API in our cloud. 
 [![Launch Presenton Cloud](https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white)](https://presenton.ai)
 
+[![Launch Presenton Cloud][CLoud deploy]](https://presenton.ai)
+
 <p align="center">
   <img src="./image/cloud.jpg" alt="Cloud deployment" />
 </p>
