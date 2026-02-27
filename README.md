@@ -7,7 +7,8 @@
 <div align="left">
 
 ## Presenton  
-**Open-Source AI Presentation Generator & API. Self-hosted. Private. Fully customizable.**
+**Open-Source AI Presentation Generator & API.**
+**Self-hosted. Private. Fully customizable.**
 
 
 [![Website][website-shield]][website-url]
