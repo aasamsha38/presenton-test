@@ -77,7 +77,7 @@ What makes Presenton different?
 
 ### 📌 Try Presenton Cloud
 
-Generate presentations over UI or API in our cloud.
+Generate presentations over UI or API in our cloud. 🔗 [Open Presenton Cloud](https://presenton.ai)
 
 <p align="center">
   <img src="./image/cloud.jpg" alt="Cloud deployment" />
