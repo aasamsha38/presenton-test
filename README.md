@@ -74,7 +74,7 @@ It allows you to create and modify PPT/PPTX files efficiently, automate slide ge
 
 ---
 
-## ✨ Key Features
+### ✨ Key Features
 
 - 📂 Create PowerPoint files from scratch
 - 📝 Edit existing PPT and PPTX files
@@ -85,7 +85,7 @@ It allows you to create and modify PPT/PPTX files efficiently, automate slide ge
 - ⚡ High performance and lightweight API
 - 🚫 No Microsoft Office automation required
 - 🌍 Supports .NET Framework and .NET Core
-
+#
 
 ### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
