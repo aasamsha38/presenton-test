@@ -57,7 +57,7 @@
 
 <!-- ![Spire.Presentation Banner](./image/logo.png) -->
 <p align="center">
-  <img src="./image/banner-1.gif" alt="Spire.Presentation Banner" />
+  <img src="./image/banner-1.gif" alt="Presenton" />
 </p>
 
 
@@ -67,14 +67,16 @@
 No SaaS lock-in · No forced subscriptions · Full control over models and data
 
 What makes Presenton different?
-- gtUse your **existing PPTX files as templates**
+- Use your **existing PPTX files as templates**
 - Fully **self-hosted**
 - Works with OpenAI, Gemini, Anthropic, Ollama, or custom models
 - API deployable
 - Fully open-source (Apache 2.0)
 
 #
-
+<p align="center">
+  <img src="./image/cloud.jpg" alt="Cloud deployment" />
+</p>
 ### 📌 About the Project
 
 **Spire.Presentation for .NET** is a professional PowerPoint API designed for developers who need to manipulate presentation files in C#, VB.NET, or ASP.NET applications.
