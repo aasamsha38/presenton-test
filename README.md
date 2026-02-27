@@ -67,7 +67,7 @@
 No SaaS lock-in · No forced subscriptions · Full control over models and data
 
 What makes Presenton different?
-**Use your existing PPTX files as templates**
+- gtUse your **existing PPTX files as templates**
 - Fully **self-hosted**
 - Works with OpenAI, Gemini, Anthropic, Ollama, or custom models
 - API deployable
