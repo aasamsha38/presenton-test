@@ -88,20 +88,33 @@ It allows you to create and modify PPT/PPTX files efficiently, automate slide ge
 
 
 ### 📺 Latest YouTube Videos
-
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[![Tired of Generic AI Slides? Use Your Existing Presentations as Templates with Presenton!](https://ytcards.demolab.com/?id=vvCj23ySjLg&title=Tired+of+Generic+AI+Slides%3F+Use+Your+Existing+Presentations+as+Templates+with+Presenton%21&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/vvCj23ySjLg)
+<p align="center">
+<a href="https://youtu.be/vvCj23ySjLg">
+  <img src="https://ytcards.demolab.com/?id=vvCj23ySjLg&title=Tired+of+Generic+AI+Slides%3F+Use+Your+Existing+Presentations+as+Templates+with+Presenton%21&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" />
+</a>
 
-[![How to Build an AI Agent That Creates Company Pitch Decks (Python, OpenAI, Presenton)](https://ytcards.demolab.com/?id=rqr2J2ci0DI&title=How+to+Build+an+AI+Agent+That+Creates+Company+Pitch+Decks+(Python,+OpenAI,+Presenton)&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/rqr2J2ci0DI)
+<a href="https://youtu.be/rqr2J2ci0DI">
+  <img src="https://ytcards.demolab.com/?id=rqr2J2ci0DI&title=How+to+Build+an+AI+Agent+That+Creates+Company+Pitch+Decks+(Python,+OpenAI,+Presenton)&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" />
+</a>
 
-[![Generate AI Presentations via API in 5 Minutes | Open-Source Tutorial](https://ytcards.demolab.com/?id=grKoA3u1CMk&title=Generate+AI+Presentations+via+API+in+5+Minutes+%7C+Open-Source+Tutorial&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/grKoA3u1CMk)
+<a href="https://youtu.be/grKoA3u1CMk">
+  <img src="https://ytcards.demolab.com/?id=grKoA3u1CMk&title=Generate+AI+Presentations+via+API+in+5+Minutes+%7C+Open-Source+Tutorial&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" />
+</a>
 
-[![Full Setup Guide: Presenton - Your Self-Hosted, Open-Source AI Presentation Generator](https://ytcards.demolab.com/?id=L25NSkZj7nk&title=Full+Setup+Guide%3A+Presenton+-+Your+Self-Hosted,+Open-Source+AI+Presentation+Generator&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/L25NSkZj7nk)
+<a href="https://youtu.be/L25NSkZj7nk">
+  <img src="https://ytcards.demolab.com/?id=L25NSkZj7nk&title=Full+Setup+Guide%3A+Presenton+-+Your+Self-Hosted,+Open-Source+AI+Presentation+Generator&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" />
+</a>
+</p>
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20to%20Presenton-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@presentonai?sub_confirmation=1)
+<p align="center">
+<a href="https://www.youtube.com/@presentonai?sub_confirmation=1">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20to%20Presenton-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
 
 #
 
