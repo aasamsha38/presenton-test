@@ -113,7 +113,7 @@ Generate presentations over UI or API in our cloud.
 </td>
 
 <td width="33%" align="center">
-  <img src="./image/banner-1.gif" alt="Presenton" />
+  <img src="./image/banner-1.gif" idth="100%" alt="Presenton" />
   <br><br>
   <strong>3) Review & edit outline</strong><br>
   Fine-tune structure before generating slides.
