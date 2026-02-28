@@ -113,7 +113,7 @@ Generate presentations over UI or API in our cloud.
 </td>
 
 <td width="33%" align="center">
-  <img src=".image/banner-1.gif" width="100%" alt="Edit outline" />
+  <img src="./image/banner-1.gif" alt="Presenton" />
   <br><br>
   <strong>3) Review & edit outline</strong><br>
   Fine-tune structure before generating slides.
@@ -122,7 +122,7 @@ Generate presentations over UI or API in our cloud.
 
 <tr>
 <td width="33%" align="center">
-  <img src=".image/banner-1.gif" width="100%" alt="Present mode" />
+  <img src="./image/banner-1.gif" alt="Presenton" />
   <br><br>
   <strong>4) Present in-app</strong><br>
   Preview and present directly inside Presenton.
