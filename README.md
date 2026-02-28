@@ -99,13 +99,13 @@ Generate presentations over UI or API in our cloud.
 <table>
 <tr>
 <td width="33%" align="center">
-  <img src=".image/banner-1.gif" alt="Prompt input" />
+  <img src="./image/banner-1.gif" alt="Prompt input" />
   <br><br>
   <strong>1) Add prompt, select number of slides and language
 </td>
 
 <td width="33%" align="center">
-  <img src=".image/UI-elements/Outline presentation.jpg" alt="Select theme" />
+  <img src="./image/UI-elements/Outline presentation.jpg" alt="Select theme" />
   <br><br>
   <strong>2) Review and edit outline
 </td>
@@ -115,13 +115,13 @@ Generate presentations over UI or API in our cloud.
 
 <tr>
 <td width="33%" align="center">
-  <img src=".image/UI-elements/Select template.jpg" alt="Presenton" />
+  <img src="./image/UI-elements/Select template.jpg" alt="Presenton" />
   <br><br>
   <strong>3) Select template
 </td>
 
 <td width="33%" align="center">
-  <img src=".image/UI-elements/ON-Premise deployment(Content).jpg" alt="Presenton" />
+  <img src="./image/UI-elements/ON-Premise deployment(Content).jpg" alt="Presenton" />
   <br><br>
   <strong>4) Present on app
 </td>
