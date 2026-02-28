@@ -94,6 +94,57 @@ Generate presentations over UI or API in our cloud.
 
 #
 
+### 📺 Latest YouTube Videos
+
+<table>
+<tr>
+<td width="33%" align="center">
+  <img src=".image/banner-1.gif" width="100%" alt="Prompt input" />
+  <br><br>
+  <strong>1) Add prompt & configure</strong><br>
+  Enter your topic, select slide count, and choose language.
+</td>
+
+<td width="33%" align="center">
+  <img src=".image/banner-1.gif" width="100%" alt="Select theme" />
+  <br><br>
+  <strong>2) Choose a theme</strong><br>
+  Pick a design style or use your custom template.
+</td>
+
+<td width="33%" align="center">
+  <img src=".image/banner-1.gif" width="100%" alt="Edit outline" />
+  <br><br>
+  <strong>3) Review & edit outline</strong><br>
+  Fine-tune structure before generating slides.
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+  <img src=".image/banner-1.gif" width="100%" alt="Present mode" />
+  <br><br>
+  <strong>4) Present in-app</strong><br>
+  Preview and present directly inside Presenton.
+</td>
+
+<td width="33%" align="center">
+  <img src=".image/banner-1.gif" width="100%" alt="Change theme" />
+  <br><br>
+  <strong>5) Change theme anytime</strong><br>
+  Switch designs without rebuilding from scratch.
+</td>
+
+<td width="33%" align="center">
+  <img src=".image/banner-1.gif" width="100%" alt="Export presentation" />
+  <br><br>
+  <strong>6) Export to PPTX / PDF</strong><br>
+  Download your presentation in professional formats.
+</td>
+</tr>
+</table>
+
+#
 
 ### ✨ Key Features
 
