@@ -101,45 +101,27 @@ Generate presentations over UI or API in our cloud.
 <td width="33%" align="center">
   <img src=".image/banner-1.gif" width="100%" alt="Prompt input" />
   <br><br>
-  <strong>1) Add prompt & configure</strong><br>
-  Enter your topic, select slide count, and choose language.
+  <strong>1) Add prompt, select number of slides and language
 </td>
 
 <td width="33%" align="center">
-  <img src=".image/banner-1.gif" width="100%" alt="Select theme" />
+  <img src=".image/UI-elements/Outline presentation.jpg" width="100%" alt="Select theme" />
   <br><br>
-  <strong>2) Choose a theme</strong><br>
-  Pick a design style or use your custom template.
+  <strong>2) Review and edit outline
 </td>
 
 <td width="33%" align="center">
-  <img src="./image/banner-1.gif" idth="100%" alt="Presenton" />
+  <img src=".image/UI-elements/Select template.jpg" idth="100%" alt="Presenton" />
   <br><br>
-  <strong>3) Review & edit outline</strong><br>
-  Fine-tune structure before generating slides.
+  <strong>3) Select template
 </td>
 </tr>
 
 <tr>
 <td width="33%" align="center">
-  <img src="./image/banner-1.gif" alt="Presenton" />
+  <img src=".image/UI-elements/ON-Premise deployment(Content).jpg" alt="Presenton" />
   <br><br>
-  <strong>4) Present in-app</strong><br>
-  Preview and present directly inside Presenton.
-</td>
-
-<td width="33%" align="center">
-  <img src=".image/banner-1.gif" width="100%" alt="Change theme" />
-  <br><br>
-  <strong>5) Change theme anytime</strong><br>
-  Switch designs without rebuilding from scratch.
-</td>
-
-<td width="33%" align="center">
-  <img src=".image/banner-1.gif" width="100%" alt="Export presentation" />
-  <br><br>
-  <strong>6) Export to PPTX / PDF</strong><br>
-  Download your presentation in professional formats.
+  <strong>4) Present on app
 </td>
 </tr>
 </table>
