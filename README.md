@@ -407,9 +407,7 @@ Options: <code>pptx</code>, <code>pdf</code>
 </tbody>
 </table>
 
-<!-- ====================================================== -->
-<!-- Response -->
-<!-- ====================================================== -->
+
 
 **Response**
 
@@ -419,9 +417,7 @@ Options: <code>pptx</code>, <code>pdf</code>
   "edit_path": "string"
 }</code></pre>
 
-<!-- ====================================================== -->
-<!-- Example Request -->
-<!-- ====================================================== -->
+
 
 **Example Request**
 
@@ -435,24 +431,15 @@ Options: <code>pptx</code>, <code>pdf</code>
     "export_as": "pptx"
   }'</code></pre>
 
-<!-- ====================================================== -->
-<!-- Example Response -->
-<!-- ====================================================== -->
+
 
 **Example Response**
 
-<!-- <pre><code class="language-json">{
+<pre><code class="language-json">{
   "presentation_id": "d3000f96-096c-4768-b67b-e99aed029b57",
   "path": "/app_data/d3000f96-096c-4768-b67b-e99aed029b57/Introduction_to_Machine_Learning.pptx",
   "edit_path": "/presentation?id=d3000f96-096c-4768-b67b-e99aed029b57"
-}</code></pre> -->
-```json
-{
-  "presentation_id": "d3000f96-096c-4768-b67b-e99aed029b57",
-  "path": "/app_data/d3000f96-096c-4768-b67b-e99aed029b57/Introduction_to_Machine_Learning.pptx",
-  "edit_path": "/presentation?id=d3000f96-096c-4768-b67b-e99aed029b57"
-}
-```
+}</code></pre>
 
 <blockquote>
 <strong>Note:</strong>  
@@ -487,17 +474,14 @@ Prepend your server’s root URL to <code>path</code> and
 
 #
 
-### ✨ Key Features
+### Roadmap
 
-- 📂 Create PowerPoint files from scratch
-- 📝 Edit existing PPT and PPTX files
-- 📊 Insert charts, tables, shapes, and SmartArt
-- 🖼 Add and manipulate images and multimedia
-- 🔄 Convert PowerPoint to PDF, images, and other formats
-- 🔍 Extract text and embedded objects
-- ⚡ High performance and lightweight API
-- 🚫 No Microsoft Office automation required
-- 🌍 Supports .NET Framework and .NET Core
+- [x] Support for custom HTML templates by developers
+- [x] Support for accessing custom templates over API
+- [x] Implement MCP server
+- [ ] Ability for users to change system prompt
+- [x] Support external SQL database
+
 #
 
 ### 📺 Latest YouTube Videos
@@ -531,13 +515,3 @@ Prepend your server’s root URL to <code>path</code> and
 </p> -->
 
 #
-
-## 🖼 Architecture Overview
----
-
-## 🚀 Installation
-
-### Install via NuGet Package Manager
-
-```bash
-Install-Package Spire.Presentation
