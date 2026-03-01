@@ -155,35 +155,23 @@ Generate presentations over UI or API in our cloud.
   </p>
 
    - Setup (First Time)
-
-  <pre><code class="language-bash">cd electron
-npm run setup:env</code></pre>
-
-  <p>
+   <pre><code class="language-bash">cd electron
+   npm run setup:env</code></pre>
     This installs Node dependencies, runs <code>uv sync</code> in the FastAPI
     server, and installs Next.js dependencies.
-  </p>
 
    - Run in Development
-   
    <pre><code class="language-bash">npm run dev</code></pre>
-   
-   <p>
     This compiles TypeScript and starts Electron. The backend and UI run locally
     inside the desktop window.
-    </p>
 
    - Build Distributable (Optional)
-   <p>
    To create installers for Windows, macOS, or Linux:
-   </p>
    <pre><code class="language-bash">npm run build:all
     npm run dist</code></pre>
     
-    <p>
     Output files are written to <code>electron/dist</code>
     (or as configured in your <code>electron-builder</code> settings).
-    </p>
 
   **Option 2: Docker**
 
