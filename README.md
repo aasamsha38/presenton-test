@@ -116,7 +116,7 @@ Generate presentations over UI or API in our cloud.
 <tr>
 <td width="33%" align="center">
   <img src="./image/UI-elements/Select template.jpg" alt="Presenton" />
-  <br><br>
+  <!-- <br><br> -->
   <strong>3) Select template
 </td>
 
