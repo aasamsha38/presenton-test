@@ -78,7 +78,7 @@ What makes Presenton different?
 ### 📌 Try Presenton Cloud
 
 Generate presentations over UI or API in our cloud. 
-![NuGet](https://img.shields.io/nuget/v/Spire.Presentation)
+![Presenton Cloud](https://presenton.ai)
 ![⚡](https://presenton.ai)
 <!-- [![Launch Presenton Cloud](https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white)](https://presenton.ai) -->
 
