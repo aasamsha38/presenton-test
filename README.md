@@ -1,13 +1,6 @@
-<!-- # Spire.Presentation for .NET -->
-<!-- ![NuGet](https://img.shields.io/nuget/v/Spire.Presentation)
-![.NET](https://img.shields.io/badge/.NET-Framework%20%7C%20.NET%20Core-purple)
-![License](https://img.shields.io/badge/license-Commercial-blue) -->
-<!-- ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey) -->
-
 <div align="left">
 
 ## Presenton  
-<!-- ## Open-Source AI Presentation Generator & API -->
 **Open-Source AI Presentation Generator & API.**
 **Self-hosted. Private. Fully customizable.**
 
@@ -23,8 +16,6 @@
 [![License][license-shield]][license-url]
 [![Platform][platform-shield]][platform-url]
 
-
-<!-- Shields -->
 
 [website-shield]: https://img.shields.io/badge/Website-presenton.ai-111827?style=flat&logo=google-chrome&logoColor=white
 [website-url]: https://presenton.ai/
@@ -78,7 +69,6 @@ What makes Presenton different?
 ### 📌 Try Presenton Cloud
 
 Generate presentations over UI or API in our cloud. 
-<!-- [![Presenton Cloud](https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white)](https://presenton.ai) -->
 
 <p align="left">
   <a href="https://presenton.ai">
@@ -480,7 +470,7 @@ Prepend your server’s root URL to <code>path</code> and
 #
 
 ### 📺 Latest YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
+
 
 <p align="left">
 <a href="https://youtu.be/vvCj23ySjLg">
@@ -500,17 +490,9 @@ Prepend your server’s root URL to <code>path</code> and
 </a>
 </p>
 
-<!-- END YOUTUBE-CARDS -->
+
 <p align="left">
   <a href="https://www.youtube.com/@presentonai?sub_confirmation=1">
     <img src="https://img.shields.io/badge/Subscribe-6C47FF?style=for-the-badge&logo=cloud&logoColor=white" />
   </a>
 </p>
-<!-- [![Subscribe][youtube-shield]](https://www.youtube.com/@presentonai?sub_confirmation=1) -->
-<!-- <p align="left">
-<a href="https://www.youtube.com/@presentonai?sub_confirmation=1">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20to%20Presenton-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-</p> -->
-
-#
