@@ -141,7 +141,7 @@ Generate presentations over UI or API in our cloud.
 
   **Option 1: Electron (Desktop App)**
 
- <p>
+   <p>
     Run Presenton as a native desktop application. LLM and image provider
     (API keys, etc.) can be configured in the app. The same environment variables
     used for Docker apply when running the bundled backend.
@@ -154,24 +154,18 @@ Generate presentations over UI or API in our cloud.
     <code>electron/servers/fastapi</code>).
   </p>
 
-   - Setup (First Time)
-   <pre><code class="language-bash">cd electron
-   npm run setup:env</code></pre>
-    This installs Node dependencies, runs <code>uv sync</code> in the FastAPI
-    server, and installs Next.js dependencies.
-
-   - Run in Development
-   <pre><code class="language-bash">npm run dev</code></pre>
-    This compiles TypeScript and starts Electron. The backend and UI run locally
-    inside the desktop window.
-
-   - Build Distributable (Optional)
-   To create installers for Windows, macOS, or Linux:
-   <pre><code class="language-bash">npm run build:all
-    npm run dist</code></pre>
+  - Start Presenton
+    Linux/MacOS (Bash/Zsh Shell):
+    <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
     
-    Output files are written to <code>electron/dist</code>
-    (or as configured in your <code>electron-builder</code> settings).
+    Windows (PowerShell):
+    <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "${PWD}\app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
+
+  - Open Presenton
+    <p>
+    Open <a href="http://localhost:5000">http://localhost:5000</a> in the browser
+    of your choice to use Presenton.
+    </p>
 
   **Option 2: Docker**
 
