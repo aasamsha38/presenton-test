@@ -139,17 +139,17 @@ Generate presentations over UI or API in our cloud.
     experience (ideal for development or offline use).
   </p>
 
-  <h3>Option 1: Docker</h3>
+  **Option 1: Docker**
 
-  <h4>1. Start Presenton</h4>
+  - 1. Start Presenton
 
-  <h5>Linux/MacOS (Bash/Zsh Shell):</h5>
+  Linux/MacOS (Bash/Zsh Shell):
   <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
 
-  <h5>Windows (PowerShell):</h5>
+  Windows (PowerShell):
   <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "${PWD}\app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
 
-  <h4>2. Open Presenton</h4>
+  - 2. Open Presenton
 
   <p>
     Open <a href="http://localhost:5000">http://localhost:5000</a> in the browser
@@ -163,7 +163,7 @@ Generate presentations over UI or API in our cloud.
     </p>
   </blockquote>
 
-  <h3>Option 2: Electron (Desktop App)</h3>
+  **Option 2: Electron (Desktop App)**
 
   <p>
     Run Presenton as a native desktop application. LLM and image provider (API
@@ -186,7 +186,7 @@ npm run setup:env</code></pre>
     This installs Node dependencies, runs <code>uv sync</code> in the FastAPI
     server, and installs Next.js dependencies.
   </p>
-  
+
 #
 
 ### ✨ Key Features
