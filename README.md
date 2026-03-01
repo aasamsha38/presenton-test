@@ -130,7 +130,7 @@ Generate presentations over UI or API in our cloud.
 
 #
 
-### Running Presenton
+### ⚡ Running Presenton
 
   <p>
     You can run Presenton in two ways:
@@ -269,7 +269,7 @@ You can disable anonymous telemetry using the following environment variable:
 
 #
 
-### Generate Presentation via API
+### ✨ Generate Presentation via API
 
 
 
