@@ -201,7 +201,7 @@ Generate presentations over UI or API in our cloud.
 #
 
 
-### Deployment Configurations
+### ⚙️ Deployment Configurations
 
 These settings apply to both Docker and the Electron app's backend. You may want to directly provide your API KEYS as environment variables and keep them hidden. You can set these environment variables to achieve it.
 
@@ -271,9 +271,7 @@ You can disable anonymous telemetry using the following environment variable:
 
 ### Generate Presentation via API
 
-<!-- ====================================================== -->
-<!-- Endpoint Info -->
-<!-- ====================================================== -->
+
 
 **Generate Presentation**
 
@@ -283,9 +281,7 @@ You can disable anonymous telemetry using the following environment variable:
 <strong>Content-Type:</strong> <code>application/json</code>
 </p>
 
-<!-- ====================================================== -->
-<!-- Request Body -->
-<!-- ====================================================== -->
+
 
 **Request Body**
 
@@ -474,7 +470,7 @@ Prepend your server’s root URL to <code>path</code> and
 
 #
 
-### Roadmap
+### 🚀 Roadmap
 
 - [x] Support for custom HTML templates by developers
 - [x] Support for accessing custom templates over API
