@@ -205,43 +205,43 @@ Generate presentations over UI or API in our cloud.
 
 These settings apply to both Docker and the Electron app's backend. You may want to directly provide your API KEYS as environment variables and keep them hidden. You can set these environment variables to achieve it.
 
-- **CAN_CHANGE_KEYS=[true/false]**: Set this to **false** if you want to keep API Keys hidden and make them unmodifiable.
-- **LLM=[openai/google/anthropic/ollama/custom]**: Select **LLM** of your choice.
-- **OPENAI_API_KEY=[Your OpenAI API Key]**: Provide this if **LLM** is set to **openai**
-- **OPENAI_MODEL=[OpenAI Model ID]**: Provide this if **LLM** is set to **openai** (default: "gpt-4.1")
-- **GOOGLE_API_KEY=[Your Google API Key]**: Provide this if **LLM** is set to **google**
-- **GOOGLE_MODEL=[Google Model ID]**: Provide this if **LLM** is set to **google** (default: "models/gemini-2.0-flash")
-- **ANTHROPIC_API_KEY=[Your Anthropic API Key]**: Provide this if **LLM** is set to **anthropic**
-- **ANTHROPIC_MODEL=[Anthropic Model ID]**: Provide this if **LLM** is set to **anthropic** (default: "claude-3-5-sonnet-20241022")
-- **OLLAMA_URL=[Custom Ollama URL]**: Provide this if you want to custom Ollama URL and **LLM** is set to **ollama**
-- **OLLAMA_MODEL=[Ollama Model ID]**: Provide this if **LLM** is set to **ollama**
-- **CUSTOM_LLM_URL=[Custom OpenAI Compatible URL]**: Provide this if **LLM** is set to **custom**
-- **CUSTOM_LLM_API_KEY=[Custom OpenAI Compatible API KEY]**: Provide this if **LLM** is set to **custom**
-- **CUSTOM_MODEL=[Custom Model ID]**: Provide this if **LLM** is set to **custom**
-- **TOOL_CALLS=[Enable/Disable Tool Calls on Custom LLM]**: If **true**, **LLM** will use Tool Call instead of Json Schema for Structured Output.
-- **DISABLE_THINKING=[Enable/Disable Thinking on Custom LLM]**: If **true**, Thinking will be disabled.
-- **WEB_GROUNDING=[Enable/Disable Web Search for OpenAI, Google And Anthropic]**: If **true**, LLM will be able to search web for better results.
+- CAN_CHANGE_KEYS=[true/false]: Set this to **false** if you want to keep API Keys hidden and make them unmodifiable.
+- LLM=[openai/google/anthropic/ollama/custom]: Select **LLM** of your choice.
+- OPENAI_API_KEY=[Your OpenAI API Key]: Provide this if **LLM** is set to **openai**
+- OPENAI_MODEL=[OpenAI Model ID]: Provide this if **LLM** is set to **openai** (default: "gpt-4.1")
+- GOOGLE_API_KEY=[Your Google API Key]: Provide this if **LLM** is set to **google**
+- GOOGLE_MODEL=[Google Model ID]: Provide this if **LLM** is set to **google** (default: "models/gemini-2.0-flash")
+- ANTHROPIC_API_KEY=[Your Anthropic API Key]: Provide this if **LLM** is set to **anthropic**
+- ANTHROPIC_MODEL=[Anthropic Model ID]: Provide this if **LLM** is set to **anthropic** (default: "claude-3-5-sonnet-20241022")
+- OLLAMA_URL=[Custom Ollama URL]: Provide this if you want to custom Ollama URL and **LLM** is set to **ollama**
+- OLLAMA_MODEL=[Ollama Model ID]: Provide this if **LLM** is set to **ollama**
+- CUSTOM_LLM_URL=[Custom OpenAI Compatible URL]: Provide this if **LLM** is set to **custom**
+- CUSTOM_LLM_API_KEY=[Custom OpenAI Compatible API KEY]: Provide this if **LLM** is set to **custom**
+- CUSTOM_MODEL=[Custom Model ID]: Provide this if **LLM** is set to **custom**
+- TOOL_CALLS=[Enable/Disable Tool Calls on Custom LLM]: If **true**, **LLM** will use Tool Call instead of Json Schema for Structured Output.
+- DISABLE_THINKING=[Enable/Disable Thinking on Custom LLM]: If **true**, Thinking will be disabled.
+- WEB_GROUNDING=[Enable/Disable Web Search for OpenAI, Google And Anthropic]: If **true**, LLM will be able to search web for better results.
 
 You can also set the following environment variables to customize the image generation provider and API keys:
 
-- **DISABLE_IMAGE_GENERATION**: If **true**, Image Generation will be disabled for slides.
-- **IMAGE_PROVIDER=[dall-e-3/gpt-image-1.5/gemini_flash/nanobanana_pro/pexels/pixabay/comfyui]**: Select the image provider of your choice.
+- DISABLE_IMAGE_GENERATION: If **true**, Image Generation will be disabled for slides.
+- IMAGE_PROVIDER=[dall-e-3/gpt-image-1.5/gemini_flash/nanobanana_pro/pexels/pixabay/comfyui]: Select the image provider of your choice.
   - Required if **DISABLE_IMAGE_GENERATION** is not set to **true**.
-- **OPENAI_API_KEY=[Your OpenAI API Key]**: Required if using **dall-e-3** or **gpt-image-1.5** as the image provider.
-- **DALL_E_3_QUALITY=[standard/hd]**: Optional quality setting for **dall-e-3** (default: `standard`).
-- **GPT_IMAGE_1_5_QUALITY=[low/medium/high]**: Optional quality setting for **gpt-image-1.5** (default: `medium`).
-- **GOOGLE_API_KEY=[Your Google API Key]**: Required if using **gemini_flash** or **nanobanana_pro** as the image provider.
-- **PEXELS_API_KEY=[Your Pexels API Key]**: Required if using **pexels** as the image provider.
-- **PIXABAY_API_KEY=[Your Pixabay API Key]**: Required if using **pixabay** as the image provider.
-- **COMFYUI_URL=[Your ComfyUI server URL]** and **COMFYUI_WORKFLOW=[Workflow JSON]**: Required if using **comfyui** to route prompts to a self-hosted ComfyUI workflow.
+- OPENAI_API_KEY=[Your OpenAI API Key]: Required if using **dall-e-3** or **gpt-image-1.5** as the image provider.
+- DALL_E_3_QUALITY=[standard/hd]: Optional quality setting for **dall-e-3** (default: `standard`).
+- GPT_IMAGE_1_5_QUALITY=[low/medium/high]: Optional quality setting for **gpt-image-1.5** (default: `medium`).
+- GOOGLE_API_KEY=[Your Google API Key]: Required if using **gemini_flash** or **nanobanana_pro** as the image provider.
+- PEXELS_API_KEY=[Your Pexels API Key]: Required if using **pexels** as the image provider.
+- PIXABAY_API_KEY=[Your Pixabay API Key]: Required if using **pixabay** as the image provider.
+- COMFYUI_URL=[Your ComfyUI server URL] and COMFYUI_WORKFLOW=[Workflow JSON]: Required if using **comfyui** to route prompts to a self-hosted ComfyUI workflow.
 
 You can disable anonymous telemetry using the following environment variable:
 
-- **DISABLE_ANONYMOUS_TELEMETRY=[true/false]**: Set this to **true** to disable anonymous telemetry.
+- DISABLE_ANONYMOUS_TELEMETRY=[true/false]: Set this to **true** to disable anonymous telemetry.
 
-> **Note:** You can freely choose both the LLM (text generation) and the image provider. Supported image providers: **dall-e-3**, **gpt-image-1.5** (OpenAI), **gemini_flash**, **nanobanana_pro** (Google), **pexels**, **pixabay**, and **comfyui** (self-hosted).
+> Note: You can freely choose both the LLM (text generation) and the image provider. Supported image providers: **dall-e-3**, **gpt-image-1.5** (OpenAI), **gemini_flash**, **nanobanana_pro** (Google), **pexels**, **pixabay**, and **comfyui** (self-hosted).
 
-### Using OpenAI
+ **Using OpenAI**
 
 ```bash
 docker run -it --name presenton -p 5000:80 -e LLM="openai" -e OPENAI_API_KEY="******" -e IMAGE_PROVIDER="dall-e-3" -e CAN_CHANGE_KEYS="false" -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest
