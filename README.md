@@ -82,7 +82,7 @@ Generate presentations over UI or API in our cloud.
 
 <p align="left">
   <a href="https://presenton.ai">
-    <img src="https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white" />
   </a>
 </p>
 
@@ -501,8 +501,12 @@ Prepend your server’s root URL to <code>path</code> and
 </p>
 
 <!-- END YOUTUBE-CARDS -->
-
-[![Subscribe][youtube-shield]](https://www.youtube.com/@presentonai?sub_confirmation=1)
+<p align="left">
+  <a href="https://www.youtube.com/@presentonai?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/Subscribe-6C47FF?style=for-the-badge&logo=cloud&logoColor=white" />
+  </a>
+</p>
+<!-- [![Subscribe][youtube-shield]](https://www.youtube.com/@presentonai?sub_confirmation=1) -->
 <!-- <p align="left">
 <a href="https://www.youtube.com/@presentonai?sub_confirmation=1">
   <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20to%20Presenton-red?style=for-the-badge&logo=youtube&logoColor=white"/>
