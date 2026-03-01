@@ -78,13 +78,13 @@ What makes Presenton different?
 ### 📌 Try Presenton Cloud
 
 Generate presentations over UI or API in our cloud. 
-[![Presenton Cloud](https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white)](https://presenton.ai)
+<!-- [![Presenton Cloud](https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white)](https://presenton.ai) -->
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://presenton.ai">
     <img src="https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white" />
   </a>
-</p> -->
+</p>
 
 
 <p align="center">
