@@ -141,27 +141,25 @@ Generate presentations over UI or API in our cloud.
 
   **Option 1: Docker**
 
-  - 1. Start Presenton
+  - Start Presenton
+    Linux/MacOS (Bash/Zsh Shell):
+    <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
+    
+    Windows (PowerShell):
+    <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "${PWD}\app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
 
-  Linux/MacOS (Bash/Zsh Shell):
-  <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
-
-  Windows (PowerShell):
-  <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "${PWD}\app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
-
-  - 2. Open Presenton
-
-  <p>
+  - Open Presenton
+    <p>
     Open <a href="http://localhost:5000">http://localhost:5000</a> in the browser
     of your choice to use Presenton.
-  </p>
-
-  <blockquote>
+    </p>
+    
+    <blockquote>
     <p>
       <strong>Note:</strong> You can replace <code>5000</code> with any other port
       number of your choice to run Presenton on a different port number.
     </p>
-  </blockquote>
+    </blockquote>
 
   **Option 2: Electron (Desktop App)**
 
