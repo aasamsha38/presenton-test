@@ -90,7 +90,7 @@ Generate presentations over UI or API in our cloud.
 <td width="33%" align="center">
   <img src="./image/UI-elements/Outline presentation.jpg" alt="Prompt input" />
   <!-- <br><br> -->
-  <strong>1) Add prompt, select number of slides and language
+  <strong>1) Add prompt
 </td>
 
 <td width="33%" align="center">
