@@ -159,14 +159,21 @@ Generate presentations over UI or API in our cloud.
     npm run setup:env</code></pre>
     This installs Node dependencies, runs <code>uv sync</code> in the FastAPI
     server, and installs Next.js dependencies.
-    
-    Windows (PowerShell):
-    <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "${PWD}\app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
 
-  - Open Presenton
+  - Run in Development
+    <pre><code class="language-bash">npm run dev</code></pre>
     <p>
-    Open <a href="http://localhost:5000">http://localhost:5000</a> in the browser
-    of your choice to use Presenton.
+    This compiles TypeScript and starts Electron. The backend and UI run locally
+    inside the desktop window.
+    </p>
+
+  - Build Distributable (Optional)
+    To create installers for Windows, macOS, or Linux:
+    <pre><code class="language-bash">npm run build:all
+    npm run dist</code></pre>
+    <p>
+    Output files are written to <code>electron/dist</code>
+    (or as configured in your <code>electron-builder</code> settings).
     </p>
 
   **Option 2: Docker**
