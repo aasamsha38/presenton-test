@@ -94,19 +94,19 @@ Generate presentations over UI or API in our cloud.
 
 #
 
-### 📺 Latest YouTube Videos
+### 🎛 UI Elements
 
 <table>
 <tr>
 <td width="33%" align="center">
   <img src="./image/banner-1.gif" alt="Prompt input" />
-  <br><br>
+  <!-- <br><br> -->
   <strong>1) Add prompt, select number of slides and language
 </td>
 
 <td width="33%" align="center">
   <img src="./image/UI-elements/Outline presentation.jpg" alt="Select theme" />
-  <br><br>
+  <!-- <br><br> -->
   <strong>2) Review and edit outline
 </td>
 
@@ -122,12 +122,71 @@ Generate presentations over UI or API in our cloud.
 
 <td width="33%" align="center">
   <img src="./image/UI-elements/ON-Premise deployment(Content).jpg" alt="Presenton" />
-  <br><br>
+  <!-- <br><br> -->
   <strong>4) Present on app
 </td>
 </tr>
 </table>
 
+#
+
+### Running Presenton
+
+  <p>
+    You can run Presenton in two ways:
+    <strong>Docker</strong> for a one-command setup without installing a local dev
+    stack, or the <strong>Electron desktop app</strong> for a native app
+    experience (ideal for development or offline use).
+  </p>
+
+  <h3>Option 1: Docker</h3>
+
+  <h4>1. Start Presenton</h4>
+
+  <h5>Linux/MacOS (Bash/Zsh Shell):</h5>
+  <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
+
+  <h5>Windows (PowerShell):</h5>
+  <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "${PWD}\app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
+
+  <h4>2. Open Presenton</h4>
+
+  <p>
+    Open <a href="http://localhost:5000">http://localhost:5000</a> in the browser
+    of your choice to use Presenton.
+  </p>
+
+  <blockquote>
+    <p>
+      <strong>Note:</strong> You can replace <code>5000</code> with any other port
+      number of your choice to run Presenton on a different port number.
+    </p>
+  </blockquote>
+
+  <h3>Option 2: Electron (Desktop App)</h3>
+
+  <p>
+    Run Presenton as a native desktop application. LLM and image provider (API
+    keys, etc.) can be configured in the app; the same environment variables used
+    for Docker apply when running the bundled backend.
+  </p>
+
+  <p>
+    <strong>Prerequisites:</strong> Node.js (LTS), npm, Python 3.11, and
+    <a href="https://docs.astral.sh/uv/">uv</a>
+    (for the Electron FastAPI backend in <code>electron/servers/fastapi</code>).
+  </p>
+
+  <p><strong>Setup (first time):</strong></p>
+
+  <pre><code class="language-bash">cd electron
+npm run setup:env</code></pre>
+
+  <p>
+    This installs Node dependencies, runs <code>uv sync</code> in the FastAPI
+    server, and installs Next.js dependencies.
+  </p>
+  
 #
 
 ### ✨ Key Features
