@@ -174,12 +174,10 @@ npm run setup:env</code></pre>
     </p>
 
    - Build Distributable (Optional)
-   
    <p>
-    To create installers for Windows, macOS, or Linux:
-    </p>
-    
-    <pre><code class="language-bash">npm run build:all
+   To create installers for Windows, macOS, or Linux:
+   </p>
+   <pre><code class="language-bash">npm run build:all
     npm run dist</code></pre>
     
     <p>
