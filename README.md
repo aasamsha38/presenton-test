@@ -441,21 +441,24 @@ Options: <code>pptx</code>, <code>pdf</code>
 
 **Example Response**
 
-<pre><code class="language-json">{
+<!-- <pre><code class="language-json">{
   "presentation_id": "d3000f96-096c-4768-b67b-e99aed029b57",
   "path": "/app_data/d3000f96-096c-4768-b67b-e99aed029b57/Introduction_to_Machine_Learning.pptx",
   "edit_path": "/presentation?id=d3000f96-096c-4768-b67b-e99aed029b57"
-}</code></pre>
+}</code></pre> -->
+```json
+{
+  "presentation_id": "d3000f96-096c-4768-b67b-e99aed029b57",
+  "path": "/app_data/d3000f96-096c-4768-b67b-e99aed029b57/Introduction_to_Machine_Learning.pptx",
+  "edit_path": "/presentation?id=d3000f96-096c-4768-b67b-e99aed029b57"
+}
+```
 
 <blockquote>
 <strong>Note:</strong>  
 Prepend your server’s root URL to <code>path</code> and 
 <code>edit_path</code> to construct valid links.
 </blockquote>
-
-<!-- ====================================================== -->
-<!-- Documentation Links -->
-<!-- ====================================================== -->
 
 **Documentation & Tutorials**
 
