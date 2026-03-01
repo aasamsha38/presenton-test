@@ -139,7 +139,30 @@ Generate presentations over UI or API in our cloud.
     experience (ideal for development or offline use).
   </p>
 
-  **Option 1: Docker**
+  **Option 1: Electron (Desktop App)**
+
+  - <p>
+    Run Presenton as a native desktop application. LLM and image provider (API
+    keys, etc.) can be configured in the app; the same environment variables used
+    for Docker apply when running the bundled backend. </p>
+
+      <p>
+       <strong>Prerequisites:</strong> Node.js (LTS), npm, Python 3.11, and
+       <a href="https://docs.astral.sh/uv/">uv</a>
+       (for the Electron FastAPI backend in <code>electron/servers/fastapi</code>).
+       </p>
+       
+       <p><strong>Setup (first time):</strong></p>
+       
+       <pre><code class="language-bash">cd electron
+       npm run setup:env</code></pre>
+       
+       <p>
+       This installs Node dependencies, runs <code>uv sync</code> in the FastAPI
+       server, and installs Next.js dependencies.
+       </p>
+
+  **Option 2: Docker**
 
   - Start Presenton
     Linux/MacOS (Bash/Zsh Shell):
@@ -160,30 +183,6 @@ Generate presentations over UI or API in our cloud.
       number of your choice to run Presenton on a different port number.
     </p>
     </blockquote>
-
-  **Option 2: Electron (Desktop App)**
-
-  <p>
-    Run Presenton as a native desktop application. LLM and image provider (API
-    keys, etc.) can be configured in the app; the same environment variables used
-    for Docker apply when running the bundled backend.
-  </p>
-
-  <p>
-    <strong>Prerequisites:</strong> Node.js (LTS), npm, Python 3.11, and
-    <a href="https://docs.astral.sh/uv/">uv</a>
-    (for the Electron FastAPI backend in <code>electron/servers/fastapi</code>).
-  </p>
-
-  <p><strong>Setup (first time):</strong></p>
-
-  <pre><code class="language-bash">cd electron
-npm run setup:env</code></pre>
-
-  <p>
-    This installs Node dependencies, runs <code>uv sync</code> in the FastAPI
-    server, and installs Next.js dependencies.
-  </p>
 
 #
 
