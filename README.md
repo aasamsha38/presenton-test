@@ -154,9 +154,11 @@ Generate presentations over UI or API in our cloud.
     <code>electron/servers/fastapi</code>).
   </p>
 
-  - Start Presenton
-    Linux/MacOS (Bash/Zsh Shell):
-    <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
+  - Setup (First Time)
+    <pre><code class="language-bash">cd electron
+    npm run setup:env</code></pre>
+    This installs Node dependencies, runs <code>uv sync</code> in the FastAPI
+    server, and installs Next.js dependencies.
     
     Windows (PowerShell):
     <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -v "${PWD}\app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
