@@ -246,7 +246,6 @@ You can disable anonymous telemetry using the following environment variable:
 
 **Docker Run Examples by Provider**
 - Using OpenAI
-    <p>Linux/MacOS (Bash/Zsh Shell):<p>
     <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -e LLM="openai" -e OPENAI_API_KEY="******" -e IMAGE_PROVIDER="dall-e-3" -e CAN_CHANGE_KEYS="false" -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
 
 - Using Google
@@ -267,6 +266,221 @@ You can disable anonymous telemetry using the following environment variable:
     
     Once the NVIDIA Container Toolkit is installed and configured, you can run Presenton with GPU support by adding the `--gpus=all` flag:
     <pre><code class="language-bash">docker run -it --name presenton --gpus=all -p 5000:80 -e LLM="ollama" -e OLLAMA_MODEL="llama3.2:3b" -e IMAGE_PROVIDER="pexels" -e PEXELS_API_KEY="*******" -e CAN_CHANGE_KEYS="false" -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
+
+#
+
+### Generate Presentation via API
+
+<!-- ====================================================== -->
+<!-- Endpoint Info -->
+<!-- ====================================================== -->
+
+**Generate Presentation**
+
+<p>
+<strong>Endpoint:</strong> <code>/api/v1/ppt/presentation/generate</code><br>
+<strong>Method:</strong> <code>POST</code><br>
+<strong>Content-Type:</strong> <code>application/json</code>
+</p>
+
+<!-- ====================================================== -->
+<!-- Request Body -->
+<!-- ====================================================== -->
+
+**Request Body**
+
+<table>
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Type</th>
+<th>Required</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><code>content</code></td>
+<td>string</td>
+<td>Yes</td>
+<td>Main content used to generate the presentation.</td>
+</tr>
+
+<tr>
+<td><code>slides_markdown</code></td>
+<td>string[] | null</td>
+<td>No</td>
+<td>Provide custom slide markdown instead of auto-generation.</td>
+</tr>
+
+<tr>
+<td><code>instructions</code></td>
+<td>string | null</td>
+<td>No</td>
+<td>Additional generation instructions.</td>
+</tr>
+
+<tr>
+<td><code>tone</code></td>
+<td>string</td>
+<td>No</td>
+<td>
+Text tone (default: <code>"default"</code>).  
+Options: <code>default</code>, <code>casual</code>, <code>professional</code>, 
+<code>funny</code>, <code>educational</code>, <code>sales_pitch</code>
+</td>
+</tr>
+
+<tr>
+<td><code>verbosity</code></td>
+<td>string</td>
+<td>No</td>
+<td>
+Content density (default: <code>"standard"</code>).  
+Options: <code>concise</code>, <code>standard</code>, <code>text-heavy</code>
+</td>
+</tr>
+
+<tr>
+<td><code>web_search</code></td>
+<td>boolean</td>
+<td>No</td>
+<td>Enable web search grounding (default: <code>false</code>).</td>
+</tr>
+
+<tr>
+<td><code>n_slides</code></td>
+<td>integer</td>
+<td>No</td>
+<td>Number of slides to generate (default: <code>8</code>).</td>
+</tr>
+
+<tr>
+<td><code>language</code></td>
+<td>string</td>
+<td>No</td>
+<td>Presentation language (default: <code>"English"</code>).</td>
+</tr>
+
+<tr>
+<td><code>template</code></td>
+<td>string</td>
+<td>No</td>
+<td>Template name (default: <code>"general"</code>).</td>
+</tr>
+
+<tr>
+<td><code>include_table_of_contents</code></td>
+<td>boolean</td>
+<td>No</td>
+<td>Include table of contents slide (default: <code>false</code>).</td>
+</tr>
+
+<tr>
+<td><code>include_title_slide</code></td>
+<td>boolean</td>
+<td>No</td>
+<td>Include title slide (default: <code>true</code>).</td>
+</tr>
+
+<tr>
+<td><code>files</code></td>
+<td>string[] | null</td>
+<td>No</td>
+<td>
+Files to use in generation.  
+Upload first via <code>/api/v1/ppt/files/upload</code>.
+</td>
+</tr>
+
+<tr>
+<td><code>export_as</code></td>
+<td>string</td>
+<td>No</td>
+<td>
+Export format (default: <code>"pptx"</code>).  
+Options: <code>pptx</code>, <code>pdf</code>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<!-- ====================================================== -->
+<!-- Response -->
+<!-- ====================================================== -->
+
+**Response**
+
+<pre><code class="language-json">{
+  "presentation_id": "string",
+  "path": "string",
+  "edit_path": "string"
+}</code></pre>
+
+<!-- ====================================================== -->
+<!-- Example Request -->
+<!-- ====================================================== -->
+
+**Example Request**
+
+<pre><code class="language-bash">curl -X POST http://localhost:5000/api/v1/ppt/presentation/generate \
+  -H "Content-Type: application/json" \
+  -d '{
+    "content": "Introduction to Machine Learning",
+    "n_slides": 5,
+    "language": "English",
+    "template": "general",
+    "export_as": "pptx"
+  }'</code></pre>
+
+<!-- ====================================================== -->
+<!-- Example Response -->
+<!-- ====================================================== -->
+
+**Example Response**
+
+<pre><code class="language-json">{
+  "presentation_id": "d3000f96-096c-4768-b67b-e99aed029b57",
+  "path": "/app_data/d3000f96-096c-4768-b67b-e99aed029b57/Introduction_to_Machine_Learning.pptx",
+  "edit_path": "/presentation?id=d3000f96-096c-4768-b67b-e99aed029b57"
+}</code></pre>
+
+<blockquote>
+<strong>Note:</strong>  
+Prepend your server’s root URL to <code>path</code> and 
+<code>edit_path</code> to construct valid links.
+</blockquote>
+
+<!-- ====================================================== -->
+<!-- Documentation Links -->
+<!-- ====================================================== -->
+
+**Documentation & Tutorials**
+
+<ul>
+  <li>
+    <a href="https://docs.presenton.ai/using-presenton-api">
+      Full API Documentation
+    </a>
+  </li>
+  <li>
+    <a href="https://docs.presenton.ai/tutorial/generate-presentation-over-api">
+      Generate Presentations via API in 5 Minutes
+    </a>
+  </li>
+  <li>
+    <a href="https://docs.presenton.ai/tutorial/generate-presentation-from-csv">
+      Create Presentations from CSV using AI
+    </a>
+  </li>
+  <li>
+    <a href="https://docs.presenton.ai/tutorial/create-data-reports-using-ai">
+      Create Data Reports Using AI
+    </a>
+  </li>
+</ul>
 
 #
 
