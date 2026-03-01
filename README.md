@@ -55,7 +55,7 @@
 </div>
 
 
-<!-- ![Spire.Presentation Banner](./image/logo.png) -->
+
 <p align="center">
   <img src="./image/banner-1.gif" alt="Presenton" />
 </p>
@@ -80,13 +80,13 @@ What makes Presenton different?
 Generate presentations over UI or API in our cloud. 
 <!-- [![Launch Presenton Cloud](https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white)](https://presenton.ai) -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://presenton.ai">
     <img src="https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white" />
   </a>
-</p>
+</p> -->
 
-<!-- [![Launch Presenton Cloud]](https://presenton.ai) -->
+[![⚡]](https://presenton.ai)
 
 <p align="center">
   <img src="./image/cloud.jpg" alt="Cloud deployment" />
