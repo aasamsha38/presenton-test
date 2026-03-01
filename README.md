@@ -244,7 +244,7 @@ You can disable anonymous telemetry using the following environment variable:
 
 **Docker Run Examples by Provider**
 - Using OpenAI
- Linux/MacOS (Bash/Zsh Shell):
+    Linux/MacOS (Bash/Zsh Shell):
     <pre><code class="language-bash">docker run -it --name presenton -p 5000:80 -e LLM="openai" -e OPENAI_API_KEY="******" -e IMAGE_PROVIDER="dall-e-3" -e CAN_CHANGE_KEYS="false" -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest</code></pre>
 <!-- ```bash
 docker run -it --name presenton -p 5000:80 -e LLM="openai" -e OPENAI_API_KEY="******" -e IMAGE_PROVIDER="dall-e-3" -e CAN_CHANGE_KEYS="false" -v "./app_data:/app_data" ghcr.io/presenton/presenton:latest
