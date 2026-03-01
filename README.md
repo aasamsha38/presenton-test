@@ -1,8 +1,8 @@
 <!-- # Spire.Presentation for .NET -->
 <!-- ![NuGet](https://img.shields.io/nuget/v/Spire.Presentation)
 ![.NET](https://img.shields.io/badge/.NET-Framework%20%7C%20.NET%20Core-purple)
-![License](https://img.shields.io/badge/license-Commercial-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey) -->
+![License](https://img.shields.io/badge/license-Commercial-blue) -->
+<!-- ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey) -->
 
 <div align="left">
 
@@ -77,7 +77,7 @@ What makes Presenton different?
 
 ### 📌 Try Presenton Cloud
 
-Generate presentations over UI or API in our cloud. 
+Generate presentations over UI or API in our cloud. ![⚡](https://presenton.ai)
 <!-- [![Launch Presenton Cloud](https://img.shields.io/badge/Launch-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white)](https://presenton.ai) -->
 
 <!-- <p align="left">
@@ -86,7 +86,6 @@ Generate presentations over UI or API in our cloud.
   </a>
 </p> -->
 
-[![⚡]](https://presenton.ai)
 
 <p align="center">
   <img src="./image/cloud.jpg" alt="Cloud deployment" />
