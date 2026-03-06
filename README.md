@@ -114,7 +114,7 @@ Generate presentations over UI or API in our cloud.
 
 
 <p align="center">
-  <img src="./image/banner-2.jpg" alt="Cloud deployment" />
+  <img src="./image/banner-3.jpg" alt="Cloud deployment" />
 </p>
 
 #
