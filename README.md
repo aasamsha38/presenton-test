@@ -67,38 +67,9 @@ What makes Presenton different?
 #
 
 ### 🎛 UI Features
-
-<table>
-<tr>
-<td width="33%" align="center">
-  <img src="./image/UI-elements/Outline presentation.jpg" alt="Prompt input" />
-  <!-- <br><br> -->
-  <strong>1) Add prompt
-</td>
-
-<td width="33%" align="center">
-  <img src="./image/UI-elements/Outline presentation.jpg" alt="Select theme" />
-  <!-- <br><br> -->
-  <strong>2) Review and edit outline
-</td>
-
-
-</tr>
-
-<tr>
-<td width="33%" align="center">
-  <img src="./image/UI-elements/Select template.jpg" alt="Presenton" />
-  <!-- <br><br> -->
-  <strong>3) Select template
-</td>
-
-<td width="33%" align="center">
-  <img src="./image/UI-elements/ON-Premise deployment(Content).jpg" alt="Presenton" />
-  <!-- <br><br> -->
-  <strong>4) Present on app
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./image/UI-elements/feature.png" alt="Presenton" />
+</p>
 
 #
 
