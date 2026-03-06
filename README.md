@@ -106,15 +106,15 @@ What makes Presenton different?
 
 Generate presentations over UI or API in our cloud. 
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://presenton.ai">
     <img src="https://img.shields.io/badge/Download-Presenton%20Cloud-6C47FF?style=for-the-badge&logo=cloud&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 
 <p align="center">
-  <img src="./image/banner-3.jpg" alt="Cloud deployment" />
+  <img src="./image/banner-4.jpg" alt="Cloud deployment" />
 </p>
 
 #
