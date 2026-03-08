@@ -68,7 +68,7 @@ What makes Presenton different?
 
 ### 🎛 UI Features
 <p align="center">
-  <img src="./image/UI-elements/features.png" alt="Presenton" />
+  <img src="./image/UI-elements/features-1.png" alt="Presenton" />
 </p>
 
 #
