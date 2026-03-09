@@ -85,7 +85,9 @@ Generate presentations over UI or API in our cloud.
 
 
 <p align="center">
-  <img src="./image/banner-4.jpg" alt="Cloud deployment" />
+  <a href="https://presenton.ai/download">
+    <img src="./image/banner-4.jpg" alt="Cloud deployment" />
+  </a>
 </p>
 
 #
