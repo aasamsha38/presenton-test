@@ -4,7 +4,7 @@
 **Open-Source AI Presentation Generator & API.**
 **Self-hosted. Private. Fully customizable.**
 <p align="center">
-  <img src="./image/test.png" alt="Presenton" />
+  <img src="./image/banner-t.jpg" alt="Presenton" />
 </p>
 
 
