@@ -1,11 +1,11 @@
 <div align="left">
 
 # Presenton #
+**Open-Source AI Presentation Generator & API.**
+**Self-hosted. Private. Fully customizable.**
 <p align="center">
   <img src="./image/test.png" alt="Presenton" />
 </p>
-**Open-Source AI Presentation Generator & API.**
-**Self-hosted. Private. Fully customizable.**
 
 
 [![Website][website-shield]][website-url]
