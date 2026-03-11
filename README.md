@@ -3,9 +3,6 @@
 # Presenton #
 **Open-Source AI Presentation Generator & API.**
 **Self-hosted. Private. Fully customizable.**
-<p align="center">
-  <img src="./image/banner-t.jpg" alt="Presenton" />
-</p>
 
 
 [![Website][website-shield]][website-url]
@@ -50,9 +47,9 @@
 
 
 
-<!-- <p align="center">
-  <img src="./image/test.png" alt="Presenton" />
-</p> -->
+<p align="center">
+  <img src="./image/banner-1.gif" alt="Presenton" />
+</p>
 
 
 
