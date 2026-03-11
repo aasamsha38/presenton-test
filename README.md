@@ -48,7 +48,7 @@
 
 
 <p align="center">
-  <img src="./image/banner-1.gif" alt="Presenton" />
+  <img src="./image/test.png" alt="Presenton" />
 </p>
 
 
