@@ -77,21 +77,21 @@ What makes Presenton different?
 
 ### 🎛 UI Features
 <p align="center">
-  <img src="./image/UI-elements/features-2.png" alt="Presenton" />
+  <img src="./image/UI-elements/features.png" alt="Presenton" />
 </p>
 
 #
 
-### 📌 Try Presenton Cloud
+### 📌 Download Presenton
 
-Generate presentations over UI or API in our cloud. 
+Create AI-powered presentations using your own model provider (BYOK) or run everything locally on your own machine for full control and data privacy.
 <p align="center">
   <a href="https://presenton.ai/download">
     <img src="./image/banner-4.jpg" alt="Cloud deployment" />
   </a>
 </p>
 
-**Supported Platforms:** [macOS](https://presenton.ai/download), [Linux](https://presenton.ai/download), [Windows](https://presenton.ai/download)
+**Available Platforms:** [macOS](https://presenton.ai/download), [Linux](https://presenton.ai/download), [Windows](https://presenton.ai/download)
 #
 
 ### ⚡ Running Presenton
