@@ -52,9 +52,9 @@
 
 
 
-<!-- <p align="center">
-  <img src="./image/test.png" alt="Presenton" />
-</p> -->
+<p align="center">
+  <img src="./image/star.gif" alt="Presenton" />
+</p>
 
 
 
