@@ -50,11 +50,12 @@
 [platform-url]: https://presenton.ai/
 </div>
 
+#
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="./image/banner-1.gif" alt="Presenton" />
-</p>
+</p> -->
 
 
 
