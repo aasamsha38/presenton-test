@@ -53,7 +53,7 @@
 
 
 <p align="center">
-  <img src="./image/star.gif" alt="Presenton" />
+  <img src="./image/banner-1.gif" alt="Presenton" />
 </p>
 
 
