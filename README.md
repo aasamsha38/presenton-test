@@ -84,9 +84,9 @@ Generate presentations over UI or API in our cloud.
 
 Supported Platforms:
 
-- 🍎 **[macOS](https://presenton.ai/download)**
-- 🐧 **[Linux](https://presenton.ai/download)**
-- 🪟 **[Windows](https://presenton.ai/download)**
+- **[macOS](https://presenton.ai/download)**
+- **[Linux](https://presenton.ai/download)**
+- **[Windows](https://presenton.ai/download)**
 #
 
 ### ⚡ Running Presenton
