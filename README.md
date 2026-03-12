@@ -3,6 +3,8 @@
   <img src="./image/logo.png" alt="Presenton" />
 </p> -->
 
+# Presenton #
+
 [![website-shield]][website-url]
 [![download-shield]][download-url]
 [![docs-shield]][docs-url]
@@ -45,12 +47,12 @@
 ### Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
 <p align="center">
-  <img src="./image/banner-1.gif" alt="Presenton" />
+  <img src="./image/logo.png" alt="Presenton" />
 </p>
 
 </div>
 
-
+#
 
 
 ### ✨ Why Presenton
