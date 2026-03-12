@@ -10,16 +10,16 @@
 **Self-hosted. Private. Fully customizable.**
 
 
-[![Website][website-shield]][website-url]
-[![Download][download-shield]][download-url]
-[![Docs][docs-shield]][docs-url]
-[![YouTube][youtube-shield]][youtube-url]
-[![Discord][discord-shield]][discord-url]
+[![website-shield]][website-url]
+[![download-shield]][download-url]
+[![docs-shield]][docs-url]
+[![youtube-shield]][youtube-url]
+[![discord-shield]][discord-url]
 <br>
-[![Docker Pulls][docker-shield]][docker-url]
-[![GitHub Stars][stars-shield]][stars-url]
-[![License][license-shield]][license-url]
-[![Platform][platform-shield]][platform-url]
+[![docker-shield]][docker-url]
+[![stars-shield]][stars-url]
+[![license-shield]][license-url]
+[![platform-shield]][platform-url]
 
 
 [website-shield]: https://img.shields.io/badge/Website-presenton.ai-111827?style=flat&logo=google-chrome&logoColor=white
