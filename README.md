@@ -1,5 +1,5 @@
-<p align="center" width="10px">
-  <img src="./image/logo-long 1.png" alt="Presenton" />
+<p align="center">
+  <img src="./image/logo.png" alt="Presenton" />
 </p>
 
 <p align="center">
