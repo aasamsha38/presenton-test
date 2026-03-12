@@ -1,5 +1,5 @@
 <p align="center" width="100px">
-  <img src="./image/logo.png" alt="Presenton" />
+  <img src="./image/logo-long 1.png" alt="Presenton" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 [platform-shield]: https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat
 [platform-url]: https://presenton.ai/ -->
 
-### Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
+# Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
 #
 
