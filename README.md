@@ -3,7 +3,7 @@
 # Presenton #
 
 <p align="center">
-  <img src="./image/test.png" alt="Presenton" />
+  <img src="./image/stary.gif" alt="Presenton" />
 </p>
 
 **Open-Source AI Presentation Generator & API.**
