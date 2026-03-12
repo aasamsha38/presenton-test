@@ -1,9 +1,11 @@
 <div align="left">
-<p align="center">
+<p align="center" width="100px">
   <img src="./image/logo.png" alt="Presenton" />
 </p>
 
-# Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
+#
+
+<h1> Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) </h1>
 
 
 [![website-shield]][website-url]
