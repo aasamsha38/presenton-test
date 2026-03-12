@@ -1,7 +1,9 @@
 <div align="left">
 
 
-# Presenton #
+<p align="center" width="100px">
+  <img src="./image/logo.png" alt="Presenton" />
+</p>
 
 [![website-shield]][website-url]
 [![download-shield]][download-url]
@@ -43,11 +45,6 @@
 [platform-url]: https://presenton.ai/
 
 ### Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
-
-<p align="left" width="100px">
-  <img src="./image/logo.png" alt="Presenton" />
-</p>
-
 </div>
 
 #
