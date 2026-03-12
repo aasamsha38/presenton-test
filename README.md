@@ -92,6 +92,27 @@ Create AI-powered presentations using your own model provider (BYOK) or run ever
 </p>
 
 **Available Platforms:** [macOS](https://presenton.ai/download), [Linux](https://presenton.ai/download), [Windows](https://presenton.ai/download)
+
+Presenton gives you complete control over your AI presentation workflow. Choose your models, customize your experience, and keep your data private.
+
+- Custom Templates & Themes — Create unlimited presentation designs with HTML and Tailwind CSS
+- AI Template Generation — Create presentation templates from existing Powerpoint documents.
+- Flexible Generation — Build presentations from prompts or uploaded documents
+- Export Ready — Save as PowerPoint (PPTX) and PDF with professional formatting
+- Built-In MCP Server — Generate presentations over Model Context Protocol
+- Bring Your Own Key — Use your own API keys for OpenAI, Google Gemini, Anthropic Claude, or any compatible provider. Only pay for what you use, no hidden fees or subscriptions.
+- Ollama Integration — Run open-source models locally with full privacy
+- OpenAI API Compatible — Connect to any OpenAI-compatible endpoint with your own models
+- Multi-Provider Support — Mix and match text and image generation providers
+- Versatile Image Generation — Choose from DALL-E 3, Gemini Flash, Pexels, or Pixabay
+- Rich Media Support — Icons, charts, and custom graphics for professional presentations
+- Runs Locally — All processing happens on your device, no cloud dependencies
+- API Deployment — Host as your own API service for your team
+- Fully Open-Source — Apache 2.0 licensed, inspect, modify, and contribute
+- Docker Ready — One-command deployment with GPU support for local models
+- Electron Desktop App — Run Presenton as a native desktop application on Windows, macOS, and Linux (no browser required)
+- Sign in with ChatGPT — Use your free or paid ChatGPT account to sign in and start creating presentations instantly — no separate API key required
+
 #
 
 ### ⚡ Running Presenton
