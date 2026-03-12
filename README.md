@@ -1,14 +1,17 @@
-<div align="left">
-
-
 <p align="center" width="100px">
   <img src="./image/logo.png" alt="Presenton" />
 </p>
 
 #
 
+<p align="center">
+  <a href="#quickstart"><strong>Quickstart</strong></a> &middot;
+  <a href="https://paperclip.ing/docs"><strong>Docs</strong></a> &middot;
+  <a href="https://github.com/paperclipai/paperclip"><strong>GitHub</strong></a> &middot;
+  <a href="https://discord.gg/m4HZY7xNG3"><strong>Discord</strong></a>
+</p>
 
-[![website-shield]][website-url]
+<!-- [![website-shield]][website-url]
 [![download-shield]][download-url]
 [![docs-shield]][docs-url]
 [![youtube-shield]][youtube-url]
@@ -45,10 +48,9 @@
 [license-url]: https://github.com/presenton/presenton/blob/main/LICENSE
 
 [platform-shield]: https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat
-[platform-url]: https://presenton.ai/
+[platform-url]: https://presenton.ai/ -->
 
 ### Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
-</div>
 
 #
 
