@@ -43,10 +43,13 @@
 [platform-url]: https://presenton.ai/
 
 <h1> Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) </h1>
-</div>
-<!-- <p align="center">
+
+<p align="center">
   <img src="./image/banner-1.gif" alt="Presenton" />
-</p> -->
+</p>
+
+</div>
+
 
 
 
