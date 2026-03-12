@@ -3,7 +3,7 @@
 # Presenton #
 
 <p align="center">
-  <img src="./image/star-1.gif" alt="Presenton" />
+  <img src="./image/logo-long 1.png" alt="Presenton" />
 </p>
 
 **Open-Source AI Presentation Generator & API.**
@@ -69,6 +69,10 @@ What makes Presenton different?
 - Works with OpenAI, Gemini, Anthropic, Ollama, or custom models
 - API deployable
 - Fully open-source (Apache 2.0)
+
+<p align="center">
+  <img src="./image/star-1.gif" alt="Presenton" />
+</p>
 
 #
 
