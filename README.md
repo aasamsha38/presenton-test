@@ -1,13 +1,9 @@
 <div align="left">
-
-# Presenton #
-
 <p align="center">
   <img src="./image/logo.png" alt="Presenton" />
 </p>
 
-**Open-Source AI Presentation Generator & API.**
-**Self-hosted. Private. Fully customizable.**
+# Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
 
 [![website-shield]][website-url]
