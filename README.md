@@ -1,4 +1,4 @@
-<p align="center" width="100px">
+<p align="center" width="10px">
   <img src="./image/logo-long 1.png" alt="Presenton" />
 </p>
 
@@ -56,8 +56,6 @@
 [platform-url]: https://presenton.ai/ -->
 
 # Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
-
-#
 
 
 ### ✨ Why Presenton
