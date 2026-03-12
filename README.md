@@ -42,7 +42,7 @@
 [platform-shield]: https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat
 [platform-url]: https://presenton.ai/
 
-<h1> Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) </h1>
+### Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
 <p align="center">
   <img src="./image/banner-1.gif" alt="Presenton" />
