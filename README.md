@@ -15,7 +15,7 @@
   <a href="https://presenton.ai/"><img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat" alt="Platform" /></a>
 </p>
 
-
+<!-- 
 [![website-shield]][website-url]
 [![download-shield]][download-url]
 [![docs-shield]][docs-url]
@@ -53,7 +53,7 @@
 [license-url]: https://github.com/presenton/presenton/blob/main/LICENSE
 
 [platform-shield]: https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat
-[platform-url]: https://presenton.ai/
+[platform-url]: https://presenton.ai/ -->
 
 # Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
