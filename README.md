@@ -70,7 +70,7 @@ What makes Presenton different?
 - Fully open-source (Apache 2.0)
 
 <p align="center">
-  <img src="./image/star-1.gif" alt="Presenton" />
+  <img src="./image/banner_bg.gif" alt="Presenton" />
 </p>
 
 #
