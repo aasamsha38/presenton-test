@@ -15,46 +15,6 @@
   <a href="https://presenton.ai/"><img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat" alt="Platform" /></a>
 </p>
 
-<!-- 
-[![website-shield]][website-url]
-[![download-shield]][download-url]
-[![docs-shield]][docs-url]
-[![youtube-shield]][youtube-url]
-[![discord-shield]][discord-url]
-<br>
-[![docker-shield]][docker-url]
-[![stars-shield]][stars-url]
-[![license-shield]][license-url]
-[![platform-shield]][platform-url]
-
-
-[website-shield]: https://img.shields.io/badge/Website-presenton.ai-111827?style=flat&logo=google-chrome&logoColor=white
-[website-url]: https://presenton.ai/
-
-[download-shield]: https://img.shields.io/badge/Download-Latest%20Release-6C47FF?style=flat&logo=download&logoColor=white
-[download-url]: https://presenton.ai/download
-
-[docs-shield]: https://img.shields.io/badge/Docs-docs.presenton.ai-0ea5e9?style=flat&logo=readthedocs&logoColor=white
-[docs-url]: https://docs.presenton.ai/
-
-[youtube-shield]: https://img.shields.io/badge/YouTube-PresentonAI-FF0000?style=flat&logo=youtube&logoColor=white
-[youtube-url]: https://www.youtube.com/@presentonai
-
-[discord-shield]: https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat&logo=discord&logoColor=white
-[discord-url]: https://discord.gg/9ZsKKxudNE
-
-[docker-shield]: https://img.shields.io/badge/Docker-ghcr.io/presenton/presenton-2496ED?style=flat&logo=docker&logoColor=white
-[docker-url]: https://ghcr.io/presenton/presenton
-
-[stars-shield]: https://img.shields.io/github/stars/presenton/presenton?style=flat
-[stars-url]: https://github.com/presenton/presenton
-
-[license-shield]: https://img.shields.io/badge/License-Apache%202.0-blue?style=flat
-[license-url]: https://github.com/presenton/presenton/blob/main/LICENSE
-
-[platform-shield]: https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat
-[platform-url]: https://presenton.ai/ -->
-
 # Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
 
@@ -92,8 +52,6 @@ Create AI-powered presentations using your own model provider (BYOK) or run ever
 </p>
 
 **Available Platforms**
-Presenton Desktop is available for all major operating systems.  
-Download the installer for your platform and start generating AI-powered presentations locally.
 
 <table>
 <tr>
