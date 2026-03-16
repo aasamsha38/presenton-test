@@ -125,8 +125,6 @@ Create AI-powered presentations using your own model provider (BYOK) or run ever
 </table>
 
 
-**Available Platforms:** [macOS](https://presenton.ai/download), [Linux](https://presenton.ai/download), [Windows](https://presenton.ai/download)
-
 Presenton gives you complete control over your AI presentation workflow. Choose your models, customize your experience, and keep your data private.
 
 - Custom Templates & Themes — Create unlimited presentation designs with HTML and Tailwind CSS
