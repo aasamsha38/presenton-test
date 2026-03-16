@@ -77,7 +77,7 @@ What makes Presenton different?
 
 ### 🎛 UI Features
 <p align="center">
-  <img src="./image/ui-elements/features.png" alt="Presenton" />
+  <img src="./image/features.png" alt="Presenton" />
 </p>
 
 #
@@ -87,7 +87,7 @@ What makes Presenton different?
 Create AI-powered presentations using your own model provider (BYOK) or run everything locally on your own machine for full control and data privacy.
 <p align="center">
   <a href="https://presenton.ai/download">
-    <img src="image/ui-elements/banner.jpg" alt="Cloud deployment" />
+    <img src="image/banner.jpg" alt="Cloud deployment" />
   </a>
 </p>
 
