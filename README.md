@@ -92,6 +92,8 @@ Create AI-powered presentations using your own model provider (BYOK) or run ever
 </p>
 
 **Available Platforms**
+Presenton Desktop is available for all major operating systems.  
+Download the installer for your platform and start generating AI-powered presentations locally.
 
 <table>
 <tr>
