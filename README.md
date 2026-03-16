@@ -93,11 +93,36 @@ Create AI-powered presentations using your own model provider (BYOK) or run ever
 
 **Available Platforms**
 
-| Platform | Architecture | Package | Download |
-|:--|:--|:--|:--|
-| **macOS** | Apple Silicon / Intel | `.dmg` | 🔗 [Download](https://presenton.ai/download) |
-| **Windows** | x64 | `.exe` | 🔗 [Download](https://presenton.ai/download) |
-| **Linux** | x64 | `.AppImage` / `.deb` | 🔗 [Download](https://presenton.ai/download) |
+<table>
+<tr>
+<th align="left">Platform</th>
+<th align="left">Architecture</th>
+<th align="left">Package</th>
+<th align="left">Download</th>
+</tr>
+
+<tr>
+<td><b>macOS</b></td>
+<td>Apple Silicon / Intel</td>
+<td><code>.dmg</code></td>
+<td><a href="https://presenton.ai/download">Download ↗</a></td>
+</tr>
+
+<tr>
+<td><b>Windows</b></td>
+<td>x64</td>
+<td><code>.exe</code></td>
+<td><a href="https://presenton.ai/download">Download ↗</a></td>
+</tr>
+
+<tr>
+<td><b>Linux</b></td>
+<td>x64</td>
+<td><code>.AppImage</code> / <code>.deb</code></td>
+<td><a href="https://presenton.ai/download">Download ↗</a></td>
+</tr>
+
+</table>
 
 
 **Available Platforms:** [macOS](https://presenton.ai/download), [Linux](https://presenton.ai/download), [Windows](https://presenton.ai/download)
