@@ -91,6 +91,14 @@ Create AI-powered presentations using your own model provider (BYOK) or run ever
   </a>
 </p>
 
+**Available Platforms**
+
+| Platform | Architecture | Package | Download |
+|----------|-------------|--------|---------|
+| **macOS** | Apple Silicon / Intel | `.dmg` | [Download](https://presenton.ai/download) |
+| **Windows** | x64 | `.exe` | [Download](https://presenton.ai/download) |
+| **Linux** | x64 | `.AppImage` / `.deb` | [Download](https://presenton.ai/download) 
+
 **Available Platforms:** [macOS](https://presenton.ai/download), [Linux](https://presenton.ai/download), [Windows](https://presenton.ai/download)
 
 Presenton gives you complete control over your AI presentation workflow. Choose your models, customize your experience, and keep your data private.
