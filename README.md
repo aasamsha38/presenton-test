@@ -30,15 +30,12 @@ What makes Presenton different?
 - Use your **existing PPTX files as templates** *(coming soon)*
 
 <p align="center">
-  <img src="./image/banner_bg.gif" alt="Presenton" />
-</p>
-<p align="center">
   <img src="./image/banner_bg1.gif" alt="Presenton" />
 </p>
 
 #
 
-### 🎛 UI Features
+### 🎛 Features
 <p align="center">
   <img src="./image/features.png" alt="Presenton" />
 </p>
