@@ -37,7 +37,7 @@ What makes Presenton different?
 
 ### 🎛 Features
 <p align="center">
-  <img src="./image/features.png" alt="Presenton" />
+  <img src="./image/features-1.png" alt="Presenton" />
 </p>
 
 #
