@@ -112,7 +112,9 @@ Presenton gives you complete control over your AI presentation workflow. Choose 
 Run Presenton directly in your browser — no installation, no setup required. Start creating presentations instantly from anywhere.
 
 <p align="center">
-  <img src="./image/cloud-banner.png" alt="Presenton Cloud" />
+  <a href="https://presenton.ai">
+    <img src="./image/cloud-banner.png" alt="Presenton Cloud" />
+  </a>
 </p>
 
 #
