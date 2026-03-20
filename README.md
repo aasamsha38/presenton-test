@@ -35,16 +35,6 @@ What makes Presenton different?
 
 #
 
-### ☁️ Presenton Cloud
-
-Run Presenton directly in your browser — no installation, no setup required. Start creating presentations instantly from anywhere.
-
-<p align="center">
-  <img src="./image/cloud-banner.png" alt="Presenton Cloud" />
-</p>
-
-#
-
 ### 🎛 Features
 <p align="center">
   <img src="./image/features-1.png" alt="Presenton Features" />
@@ -114,6 +104,16 @@ Presenton gives you complete control over your AI presentation workflow. Choose 
 - Docker Ready — One-command deployment with GPU support for local models
 - Electron Desktop App — Run Presenton as a native desktop application on Windows, macOS, and Linux (no browser required)
 - Sign in with ChatGPT — Use your free or paid ChatGPT account to sign in and start creating presentations instantly — no separate API key required
+
+#
+
+### ☁️ Presenton Cloud
+
+Run Presenton directly in your browser — no installation, no setup required. Start creating presentations instantly from anywhere.
+
+<p align="center">
+  <img src="./image/cloud-banner.png" alt="Presenton Cloud" />
+</p>
 
 #
 
