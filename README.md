@@ -35,9 +35,19 @@ What makes Presenton different?
 
 #
 
+### ☁️ Presenton Cloud
+
+Run Presenton directly in your browser — no installation, no setup required. Start creating presentations instantly from anywhere.
+
+<p align="center">
+  <img src="./image/Cloud banner.jpg" alt="Presenton Cloud" />
+</p>
+
+#
+
 ### 🎛 Features
 <p align="center">
-  <img src="./image/features-1.png" alt="Presenton" />
+  <img src="./image/features-1.png" alt="Presenton Features" />
 </p>
 
 #
