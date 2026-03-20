@@ -57,7 +57,7 @@ Run Presenton directly in your browser — no installation, no setup required. S
 Create AI-powered presentations using your own model provider (BYOK) or run everything locally on your own machine for full control and data privacy.
 <p align="center">
   <a href="https://presenton.ai/download">
-    <img src="image/banner.jpg" alt="Cloud deployment" />
+    <img src="image/banner.png" alt="Cloud deployment" />
   </a>
 </p>
 
